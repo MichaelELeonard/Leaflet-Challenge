@@ -115,3 +115,5 @@ labels.push('<ul style="background-color:' + getColorDepth(depth[i] +1) + '"> <s
     		return div;
   	};
   	legend.addTo(myMap);
+
+![Legend](https://github.com/MichaelELeonard/leaflet-challenge/assets/152725440/f6e899db-5e05-42de-a72a-3e4e711938dd)
