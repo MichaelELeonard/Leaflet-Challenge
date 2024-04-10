@@ -10,10 +10,10 @@ THE GOAL
 
 For the Week 15 - leaflet-challenge we were tasked with creating an map displaying JSON earthquake data pulled from https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson.  The add on library leaflet & JavaScript were utilized to accomplish this challenge.   The functions used to complete this challenge include:
 
-function createFeatures()
-function getColorDepth()
-function earthquakeMultiplyer()
-function createMap()
+  function createFeatures()
+  function getColorDepth()
+  function earthquakeMultiplyer()
+  function createMap()
 
 
 THE START
