@@ -89,7 +89,6 @@ attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStree
     		layers: [baseMapLayer, earthquakeLayer] 
   	});
 
-![2-BasicMap](https://github.com/MichaelELeonard/leaflet-challenge/assets/152725440/639939a4-c45e-4565-b390-acf31f5cb5a7)
 
 The second component of the createMap is the earthquake legend based off the earthquake origination depth which was placed in the lower right-hand corner of the map.  A variable legend was created to hold the components for the map legend with the positioning set to ‘bottomright’.  The method .onAdd was used to establish the components for the legend.  These components include:
 •	Set up a div 
@@ -115,5 +114,3 @@ labels.push('<ul style="background-color:' + getColorDepth(depth[i] +1) + '"> <s
     		return div;
   	};
   	legend.addTo(myMap);
-        
- ![Legend](https://github.com/MichaelELeonard/leaflet-challenge/assets/152725440/0a817121-e4ec-40fc-bbe7-98ea2c976878)
