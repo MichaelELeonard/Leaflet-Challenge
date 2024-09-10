@@ -29,6 +29,6 @@ Using Leaflet, create a map that plots all the earthquakes from your dataset bas
 
 <img src="Pics/Earthquakes Global View.png" width="1024" height="543">
 <img src="Pics/Earthquakes Alaska View.png" width="810" height="518">
-<img src="Pics/Earthquakes US View.png" width="1142" height="620">
+<img src="Pics/Earthquakes US View.png" width="1027" height="558">
 
 
