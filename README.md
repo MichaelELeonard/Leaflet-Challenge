@@ -18,16 +18,17 @@ The USGS provides earthquake data in several different formats, updated every 5 
 
 USGS GeoJSON FeedLinks - https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
 
-<img src="Pics/USGS Feed.png" width="1531" height="908">
+<img src="Pics/USGS Feed.png" width="1148" height="681">
 
 
 Import and visualize the data by doing the following:
 Using Leaflet, create a map that plots all the earthquakes from your dataset based on their longitude and latitude.
-•	Your data markers should reflect the magnitude of the earthquake by their size and the depth of the earthquake by color. Earthquakes with higher magnitudes should appear larger, and earthquakes with greater depth should appear darker in color.
-•	Include popups that provide additional information about the earthquake when its associated marker is clicked.
-•	Create a legend that will provide context for your map data.
-<img src="Pics/Earthquakes Global View.png" width="1280" height="679">
-<img src="Pics/Earthquakes Alaska View.png" width="1013" height="648">
-<img src="Pics/Earthquakes US View.png" width="1428" height="775">
+* Your data markers should reflect the magnitude of the earthquake by their size and the depth of the earthquake by color. Earthquakes with higher magnitudes should appear larger, and earthquakes with greater depth should appear darker in color.
+* Include popups that provide additional information about the earthquake when its associated marker is clicked.
+* Create a legend that will provide context for your map data.
+
+<img src="Pics/Earthquakes Global View.png" width="1024" height="543">
+<img src="Pics/Earthquakes Alaska View.png" width="810" height="518">
+<img src="Pics/Earthquakes US View.png" width="1142" height="620">
 
 
