@@ -15,6 +15,7 @@ The USGS is interested in building a new set of tools that will allow them to vi
 ## THE GOAL
 
 The USGS provides earthquake data in several different formats, updated every 5 minutes. Visit the USGS GeoJSON FeedLinks to an external site and retrieve the dataset from the Past 7 Days, you will be given a JSON representation of that data. Use the URL of this JSON to pull in the data for the visualization. 
+
 USGS GeoJSON FeedLinks - https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
 
 <img src="Pics/USGS Feed.png" width="1531" height="908">
