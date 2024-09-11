@@ -21,14 +21,18 @@ USGS GeoJSON FeedLinks - https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojs
 <img src="Pics/USGS Feed.png" width="1148" height="681">
 
 
-Import and visualize the data by doing the following:
-Using Leaflet, create a map that plots all the earthquakes from your dataset based on their longitude and latitude.
-* Your data markers should reflect the magnitude of the earthquake by their size and the depth of the earthquake by color. Earthquakes with higher magnitudes should appear larger, and earthquakes with greater depth should appear darker in color.
-* Include popups that provide additional information about the earthquake when its associated marker is clicked.
-* Create a legend that will provide context for your map data.
+The data was imported and visualized with Leaflet with all the earthquakes from your dataset based on their longitude and latitude.  Other maps attributes include:
+* The markers reflect the magnitude of the earthquake by their size and the depth of the earthquake by color.  Earthquakes with higher magnitudes appear larger, and earthquakes with greater depth appear darker in color.
+* Popups include additional information about the earthquake when its associated marker is clicked.
+* The legend provides context for the map data.
 
+## Global View
 <img src="Pics/Earthquakes Global View.png" width="837" height="461">
+
+## Alaska View
 <img src="Pics/Earthquakes Alaska View.png" width="749" height="467">
+
+## Contiguous United States View
 <img src="Pics/Earthquakes US View.png" width="924" height="502">
 
 
