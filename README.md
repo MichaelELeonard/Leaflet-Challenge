@@ -17,7 +17,7 @@ The USGS provides earthquake data in several different formats, updated every 5 
 USGS GeoJSON FeedLinks - https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
 
 <img src="Pics/USGS Feed.png" width="1148" height="681">
-
+<br>
 ## THE VISUALIZATIONS
 
 The data was imported and visualized with Leaflet for all the earthquakes in the dataset based on their longitude and latitude.  Other maps attributes include:
