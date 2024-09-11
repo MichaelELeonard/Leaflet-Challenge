@@ -12,7 +12,7 @@ The USGS is interested in building a new set of tools that will allow them to vi
 
 ## THE GOAL
 
-The USGS provides earthquake data in several different formats, updated every 5 minutes. The USGS GeoJSON FeedLinks provided the earthquake dataset from the past seven days and were utilized to create the visualizations. 
+The USGS provides earthquake data in several different formats, updated every 5 minutes. Pull the up to data earthquake data for the last seven days from USGS GeoJSON FeedLinks and visualize the data using Leaflet. 
 
 USGS GeoJSON FeedLinks - https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
 
@@ -20,7 +20,7 @@ USGS GeoJSON FeedLinks - https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojs
 
 ## THE VISUALIZATIONS
 
-The data was imported and visualized with Leaflet with all the earthquakes from your dataset based on their longitude and latitude.  Other maps attributes include:
+The data was imported and visualized with Leaflet for all the earthquakes in the dataset based on their longitude and latitude.  Other maps attributes include:
 * The markers reflect the magnitude of the earthquake by their size and the depth of the earthquake by color.  Earthquakes with higher magnitudes appear larger, and earthquakes with greater depth appear darker in color.
 * Popups include additional information about the earthquake when its associated marker is clicked.
 * The legend provides context for the map data.
