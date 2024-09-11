@@ -27,8 +27,8 @@ Using Leaflet, create a map that plots all the earthquakes from your dataset bas
 * Include popups that provide additional information about the earthquake when its associated marker is clicked.
 * Create a legend that will provide context for your map data.
 
-<img src="Pics/Earthquakes Global View.png" width="1027" height="558">
-<img src="Pics/Earthquakes Alaska View.png" width="810" height="518">
-<img src="Pics/Earthquakes US View.png" width="1027" height="558">
+<img src="Pics/Earthquakes Global View.png" width="837" height="461">
+<img src="Pics/Earthquakes Alaska View.png" width="749" height="467">
+<img src="Pics/Earthquakes US View.png" width="924" height="502">
 
 
