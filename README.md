@@ -21,7 +21,7 @@ USGS GeoJSON FeedLinks - https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojs
 
 ## THE VISUALIZATIONS
 
-The data was imported and visualized using Leaflet for all the earthquakes in the dataset based on their longitude and latitude.  Other maps attributes include:
+The data was imported and visualized using Leaflet for all the earthquakes in the dataset based on their longitude and latitude.  Visualization attributes include:
 * The markers reflect the magnitude of the earthquake by their size and the depth of the earthquake by color.  Earthquakes with higher magnitudes appear larger, and earthquakes with greater depth appear darker in color.
 * Popups include additional information about the earthquake when its associated marker is clicked.
 * The legend provides context for the map data.
