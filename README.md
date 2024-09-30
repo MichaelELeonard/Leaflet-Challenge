@@ -12,7 +12,7 @@ The USGS is interested in building a new set of tools that will allow them to vi
 
 ## THE GOAL
 
-The USGS provides earthquake data in several different formats, updated every 5 minutes.  Download to earthquake data for the last seven days from [USGS GeoJSON FeedLinks](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) and visualize the data using Leaflet. 
+The USGS provides earthquake data in several different formats, updated every 5 minutes.  Download to earthquake data for the last seven days from [USGS GeoJSON FeedLinks]( https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson) and visualize the data using Leaflet. 
 
 <img src="Pics/USGS Feed.png" width="1148" height="681">
 <br>
